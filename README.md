@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Developement Projects
 - 📫 How to reach me :
   E-mail: pritamdey2001@gmail.com
-  Instagram: hyper_pritu
+  Instagram: ride_with_silvi
 
 <!---
 HyperPritu/HyperPritu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
