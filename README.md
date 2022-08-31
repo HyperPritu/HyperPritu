@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HyperPritu
-- 👀 I’m interested in Coding (C, C++, Java, HTML, CSS)
+- 👀 I’m interested in Coding (C, C++, Java, HTML, CSS, Node.js)
 - 🌱 I’m currently studying B.Tech Computer Science and Engineering
 - 💞️ I’m looking to collaborate on Web Developement Projects
 - 📫 How to reach me :
